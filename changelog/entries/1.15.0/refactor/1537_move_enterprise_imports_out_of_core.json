@@ -1,7 +1,0 @@
-{
-    "type": "refactor",
-    "message": "Move enterprise imports out of core.",
-    "issue_number": 1537,
-    "bullet_points": [],
-    "created_at": "2023-02-10"
-}

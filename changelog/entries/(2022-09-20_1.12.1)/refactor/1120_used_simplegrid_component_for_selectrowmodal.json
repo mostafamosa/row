@@ -1,7 +1,0 @@
-{
-    "type": "refactor",
-    "message": "Used SimpleGrid component for SelectRowModal.",
-    "issue_number": 1120,
-    "bullet_points": [],
-    "created_at": "2023-02-10"
-}

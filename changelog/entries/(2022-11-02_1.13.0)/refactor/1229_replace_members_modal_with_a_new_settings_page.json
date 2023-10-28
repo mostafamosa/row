@@ -1,7 +1,0 @@
-{
-    "type": "refactor",
-    "message": "Replace members modal with a new settings page.",
-    "issue_number": 1229,
-    "bullet_points": [],
-    "created_at": "2023-02-10"
-}

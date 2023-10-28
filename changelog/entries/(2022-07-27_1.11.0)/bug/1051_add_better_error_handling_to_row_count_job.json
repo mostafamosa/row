@@ -1,7 +1,0 @@
-{
-    "type": "bug",
-    "message": "Add better error handling to row count job.",
-    "issue_number": 1051,
-    "bullet_points": [],
-    "created_at": "2023-02-10"
-}
