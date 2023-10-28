@@ -1,3 +1,0 @@
-from .serializers import get_list_workspace_user_serializer
-
-ListWorkspaceUsersWithMemberDataSerializer = get_list_workspace_user_serializer()

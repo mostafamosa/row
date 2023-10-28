@@ -1,2 +1,0 @@
-class BaserowToDjangoExpressionGenerationError(Exception):
-    pass

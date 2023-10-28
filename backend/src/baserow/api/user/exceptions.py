@@ -1,2 +1,0 @@
-class ClientSessionIdHeaderNotSetException(Exception):
-    pass
